@@ -17,7 +17,6 @@
    </div>
      <div style="width:100%; height:855px; background-color: white; text-align: center;">
        <img src="이미지파일/사진3.png">
-
      </div>
      <div style="width:100%; height:498px; background-color: white; text-align: center;">
        <img src="이미지파일/사진4.png">
