@@ -2,8 +2,8 @@
  <head> </head>
   <body>
    <div>
-    <div style="width:100%; height:80px; background-color:#333333; color:white; text-align: center;">
-     <img src="이미지파일/상단바1-1.PNG" style="padding-top:25px;">
+    <div style="width:100%; height:55px; background-color:#333333; color:white; text-align: center;">
+     <img src="이미지파일/상단바1-1.PNG" style="padding-top:16px;">
      </div>
       <div style="width:100%; height:154px; background-color:#F9F9FA; color:white; text-align: center; padding-top:25px;">
        <img src="이미지파일/상단바2-2.PNG">
